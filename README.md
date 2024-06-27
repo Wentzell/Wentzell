@@ -6,6 +6,6 @@ I am a Research Scientist at the [Center for Computational Quantum Physics (CCQ)
 &nbsp;&nbsp;
 [![website](./img/scholar.png)](https://scholar.google.com/citations?user=9IRL-ygAAAAJ)
 &nbsp;&nbsp;
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/nils-wentzell/)
-&nbsp;&nbsp;
 [![website](./img/orcid.png)](https://orcid.org/0000-0003-3613-007X)
+&nbsp;&nbsp;
+[![website](./img/linkedin.png)](https://www.linkedin.com/in/nils-wentzell/)
